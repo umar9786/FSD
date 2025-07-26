@@ -2,9 +2,9 @@
   "name": "my-node-app",
   "version": "1.0.0",
   "description": "A simple Node.js application",
-  "main": "fsd2-2.js",
+  "main": "fsd2.js",
   "scripts": {
-    "start": "node fsd2-2.js"
+    "start": "node fsd2.js"
   },
   "keywords": [],
   "author": "",
